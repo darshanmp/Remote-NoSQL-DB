@@ -1,0 +1,59 @@
+﻿<!-- 
+/////////////////////////////////////////////////////////////////////////
+// MainWindow.xaml - CommService GUI Client                            //
+// ver 1.1                                                             //
+// Darshan                                                             //
+/////////////////////////////////////////////////////////////////////////
+-->
+<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="565">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="Performance Results">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"></RowDefinition>
+                        <RowDefinition Height="30"></RowDefinition>
+                        <RowDefinition Height="30"></RowDefinition>
+                        <RowDefinition Height="72.8"></RowDefinition>
+                        <RowDefinition Height="127*"></RowDefinition>
+                        <RowDefinition Height="151*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="110.978"></ColumnDefinition>
+                        <ColumnDefinition Width="14.412"/>
+                        <ColumnDefinition Width="24.788"/>
+                        <ColumnDefinition Width="11.798"></ColumnDefinition>
+                        <ColumnDefinition Width="9.802"/>
+                        <ColumnDefinition Width="21.905"/>
+                        <ColumnDefinition Width="22.095"/>
+                        <ColumnDefinition Width="34.544"/>
+                        <ColumnDefinition Width="75"></ColumnDefinition>
+                        <ColumnDefinition Width="27*"></ColumnDefinition>
+                        <ColumnDefinition Width="49*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Margin="99,9.6,78.8,0" Padding="5 0 5 0" Content="Performance Results displayed below" Grid.ColumnSpan="11" Grid.RowSpan="2" Height="45" VerticalAlignment="Top" FontSize="21.333" Grid.Row="1"/>
+                    <!--<Button Grid.Row="2" Grid.Column= "5" x:Name="send" Height="20" VerticalAlignment="Top" Margin="0,0.2,56.4,0" RenderTransformOrigin="0.504,0.5" Click="send_Click" Grid.ColumnSpan="5" Content="Click me"/>-->
+                    <ListBox Grid.Row="2" Grid.ColumnSpan="11" Name="rcvmsgs" Margin="10,30.2,19.8,27.4" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="4">
+                        <ListBox.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleX="0.579"/>
+                                <RotateTransform/>
+                                <TranslateTransform X="1.072"/>
+                            </TransformGroup>
+                        </ListBox.RenderTransform>
+                    </ListBox>
+                    <Label  Name="lblError" Grid.Row="2" Height="20" VerticalAlignment="Bottom" Margin="24.4,0,0.4,10.2" Padding="5 0 5 0" Content="" Grid.ColumnSpan="8" Grid.Column="2" FontSize="19"/>
+                    <Label Name="lblPort" Height="25" VerticalAlignment="Bottom" Margin="106,0,43.4,0.4" Padding="5 0 5 0" Content="" Grid.ColumnSpan="10" FontSize="19"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

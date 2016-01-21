@@ -1,0 +1,6 @@
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\bin\Debug\Event Logger.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\bin\Debug\Event Logger.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\bin\Debug\Event Logger.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\obj\Debug\Event Logger.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\obj\Debug\Event Logger.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\Event Logger\obj\Debug\Event Logger.pdb

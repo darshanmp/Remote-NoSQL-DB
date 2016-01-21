@@ -1,0 +1,1 @@
+RemoteKeyValueDB\TestExec\bin\Debug\TestExec.exe /WriteInterface Cons /Write 2 /Read 2 /Local 8081 8082 8083 8084 8085 /Remote 8080 /Address localhost /Logging Y /Performance 8089

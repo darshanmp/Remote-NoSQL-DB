@@ -1,0 +1,48 @@
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Client2.exe.config
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Client2.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Client2.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\ICommService.dll
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Receiver.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Sender.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\XMLUtility.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\CommService.dll
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\BlockingQueue.dll
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\DBEngine.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\DBElement.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Exception.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\ICommService.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Receiver.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Sender.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\XMLUtility.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\CommService.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\BlockingQueue.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\DBEngine.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\DBElement.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\bin\Debug\Exception.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\obj\Debug\ReadClientConsole.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\obj\Debug\Client2.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ReadClient\obj\Debug\Client2.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Client2.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Client2.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Client2.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\ICommService.dll
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Receiver.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Sender.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\XMLUtility.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\CommService.dll
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\BlockingQueue.dll
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\DBEngine.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\DBElement.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\ICommService.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Receiver.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\Sender.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\XMLUtility.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\CommService.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\BlockingQueue.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\DBEngine.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\bin\Debug\DBElement.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\obj\Debug\ReadClientConsole.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\obj\Debug\Client2.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ReadClient\obj\Debug\Client2.pdb

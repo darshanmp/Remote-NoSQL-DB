@@ -1,0 +1,17 @@
+F:\Courses\681\Project1_SMA\Exception\bin\Debug\Exception.exe.config
+F:\Courses\681\Project1_SMA\Exception\bin\Debug\Exception.exe
+F:\Courses\681\Project1_SMA\Exception\bin\Debug\Exception.pdb
+F:\Courses\681\Project1_SMA\Exception\obj\Debug\Exception.exe
+F:\Courses\681\Project1_SMA\Exception\obj\Debug\Exception.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\bin\Debug\Exception.exe.config
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\bin\Debug\Exception.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\bin\Debug\Exception.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\obj\Debug\Exception.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\Exception\obj\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\bin\Debug\Exception.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\bin\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\bin\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\obj\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\obj\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\Exception\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache

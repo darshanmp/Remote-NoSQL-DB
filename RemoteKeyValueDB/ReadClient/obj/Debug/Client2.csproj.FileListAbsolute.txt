@@ -1,0 +1,176 @@
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.exe.config
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.exe
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Client2.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\ICommService.dll
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Receiver.exe
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Sender.exe
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Utilities.exe
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\CommService.dll
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\BlockingQueue.dll
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\ICommService.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Receiver.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Sender.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\Utilities.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\CommService.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\bin\Debug\BlockingQueue.pdb
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.exe
+C:\su\cse681\code\Project4HelpF15\CommPrototype-29-Oct-2015\Client2\obj\Debug\Client2.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Client2.exe.config
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Client2.exe
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Client2.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\ICommService.dll
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Receiver.exe
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Sender.exe
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Utilities.exe
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\CommService.dll
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\BlockingQueue.dll
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\ICommService.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Receiver.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Sender.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\Utilities.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\CommService.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\bin\Debug\BlockingQueue.pdb
+F:\Courses\681\Project 4\CommPrototype\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project 4\CommPrototype\Client2\obj\Debug\Client2.exe
+F:\Courses\681\Project 4\CommPrototype\Client2\obj\Debug\Client2.pdb

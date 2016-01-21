@@ -1,0 +1,8 @@
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\bin\Debug\TestExec.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\bin\Debug\TestExec.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\bin\Debug\TestExec.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\bin\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\bin\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\obj\Debug\TestExec.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\obj\Debug\TestExec.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\TestExec\obj\Debug\TestExec.pdb

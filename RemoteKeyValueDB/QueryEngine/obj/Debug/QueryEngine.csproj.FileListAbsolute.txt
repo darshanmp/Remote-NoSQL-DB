@@ -1,0 +1,48 @@
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\QueryEngine.exe.config
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\QueryEngine.exe
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\QueryEngine.pdb
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\DBElement.exe
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\DBEngine.exe
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\Exception.exe
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\DBElement.pdb
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\DBEngine.pdb
+F:\Courses\681\Project1_SMA\QueryEngine\bin\Debug\Exception.pdb
+F:\Courses\681\Project1_SMA\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project1_SMA\QueryEngine\obj\Debug\QueryEngine.exe
+F:\Courses\681\Project1_SMA\QueryEngine\obj\Debug\QueryEngine.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.exe.config
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\DBElement.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\DBEngine.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\Exception.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\DBElement.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\DBEngine.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\bin\Debug\Exception.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.exe.config
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\QueryEngine.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\DBElement.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\DBEngine.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\Exception.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\DBElement.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\DBEngine.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\bin\Debug\Exception.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\QueryEngine\obj\Debug\QueryEngine.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\QueryEngine.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\QueryEngine.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\QueryEngine.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\DBElement.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\DBEngine.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\DBElement.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\DBEngine.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\bin\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\obj\Debug\QueryEngine.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\QueryEngine\obj\Debug\QueryEngine.pdb

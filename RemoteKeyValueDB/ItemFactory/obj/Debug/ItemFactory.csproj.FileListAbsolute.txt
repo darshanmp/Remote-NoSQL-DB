@@ -1,0 +1,33 @@
+F:\Courses\681\Project1_SMA\ItemFactory\bin\Debug\ItemFactory.exe.config
+F:\Courses\681\Project1_SMA\ItemFactory\bin\Debug\ItemFactory.exe
+F:\Courses\681\Project1_SMA\ItemFactory\bin\Debug\ItemFactory.pdb
+F:\Courses\681\Project1_SMA\ItemFactory\bin\Debug\DBElement.exe
+F:\Courses\681\Project1_SMA\ItemFactory\bin\Debug\DBElement.pdb
+F:\Courses\681\Project1_SMA\ItemFactory\obj\Debug\ItemFactory.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project1_SMA\ItemFactory\obj\Debug\ItemFactory.exe
+F:\Courses\681\Project1_SMA\ItemFactory\obj\Debug\ItemFactory.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.exe.config
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\bin\Debug\DBElement.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\bin\Debug\DBElement.pdb
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\obj\Debug\ItemFactory.csprojResolveAssemblyReference.cache
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\obj\Debug\ItemFactory.exe
+F:\Courses\681\SMA\Deploy\Project2_DarshanMastiPrakash\ItemFactory\obj\Debug\ItemFactory.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.exe.config
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\bin\Debug\ItemFactory.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\bin\Debug\DBElement.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\bin\Debug\DBElement.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\obj\Debug\ItemFactory.exe
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ItemFactory\obj\Debug\ItemFactory.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\ItemFactory.exe.config
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\ItemFactory.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\ItemFactory.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\DBElement.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\Exception.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\DBElement.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\bin\Debug\Exception.pdb
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\obj\Debug\ItemFactory.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\obj\Debug\ItemFactory.exe
+F:\Courses\681\Project4\RemoteKeyValueDB\ItemFactory\obj\Debug\ItemFactory.pdb

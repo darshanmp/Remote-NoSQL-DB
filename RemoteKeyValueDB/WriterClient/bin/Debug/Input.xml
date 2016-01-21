@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Items>
+    <OperationMessage>
+    <MessageID></MessageID>
+    <Operation>Insert</Operation>
+    <Count>20</Count>
+    <Key></Key>
+	<InsertTime></InsertTime>
+    <Value>
+      <Name></Name>
+      <Description></Description>
+      <TimeStamp></TimeStamp>
+      <Children>
+        <Child></Child>
+      </Children>
+      <Payload></Payload>
+    </Value>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+    <Operation>StringDBInsert</Operation>
+    <Count>2</Count>
+	<InsertTime></InsertTime>
+    <Key></Key>
+    <Value>
+      <Name></Name>
+      <Description></Description>
+      <TimeStamp></TimeStamp>
+      <Children>
+        <Child></Child>
+      </Children>
+      <Payload>
+	  <Data></Data>
+	  <Data></Data>
+	  </Payload>
+    </Value>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <Operation>Update</Operation>
+	<InsertTime></InsertTime>
+    <MessageID></MessageID>
+	 <Count>10</Count>
+     <Key></Key>
+     <Value>
+      <Name></Name>
+      <Description></Description>
+      <TimeStamp></TimeStamp>
+      <Children>
+      <Child></Child>
+      </Children>
+      <Payload></Payload>
+      </Value>
+	<Response></Response>	  
+    </OperationMessage>
+		
+    <OperationMessage>
+    <MessageID></MessageID>
+    <Operation>Delete</Operation>
+	<InsertTime></InsertTime>
+	<Count>10</Count>
+    <Key></Key>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+    <Operation>ManualPersist</Operation>
+    <Status>Yes</Status>
+	<Response></Response>
+    </OperationMessage>
+	
+	<OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>RestoreDB</Operation>
+    <Status>Yes</Status>
+	<Response></Response>
+    </OperationMessage>
+	
+	<OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+	<TimeInterval>1000</TimeInterval>
+    <Operation>ScheduledPersist</Operation>
+    <Status>Yes</Status>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>Read</Operation>
+    <Count>3</Count>
+	<QueryType>GetByKey</QueryType>
+	<Key>4</Key>
+	<Response></Response>
+    </OperationMessage>
+  
+    <OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>Read</Operation>
+    <Count>3</Count>
+	<QueryType>GetChildren</QueryType>
+	<Key>4</Key>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>Read</Operation>
+    <Count>3</Count>
+	<QueryType>GetKeyCriteria</QueryType>
+	<Criteria>DBKey</Criteria>
+	<Response></Response>
+    </OperationMessage>  
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>Read</Operation>
+    <Count>3</Count>
+	<QueryType>GetByMetadataCriteria</QueryType>
+	<Criteria>Pay</Criteria>
+	<Response></Response>
+    </OperationMessage>
+	
+    <OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>Read</Operation>
+    <Count>3</Count>
+	<QueryType>GetByTimeStampCriteria</QueryType>
+	<FromDate>2015-01-01</FromDate>
+	<ToDate></ToDate>
+	<Response></Response>
+    </OperationMessage>
+	
+	<OperationMessage>
+    <MessageID></MessageID>
+	<InsertTime></InsertTime>	
+    <Operation>LoadPackageStructure</Operation>
+	<Response></Response>
+    </OperationMessage>
+	
+	<OperationMessage>
+    <MessageID></MessageID>
+	<Key></Key>
+	<InsertTime></InsertTime>	
+    <Operation>ImmutableDB</Operation>
+	<Response></Response>
+    </OperationMessage>
+	
+</Items>

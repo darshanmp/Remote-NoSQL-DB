@@ -1,0 +1,6 @@
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\bin\Release\ICommService.dll.config
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\bin\Release\ICommService.dll
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\bin\Release\ICommService.pdb
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\obj\Release\ICommService.csprojResolveAssemblyReference.cache
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\obj\Release\ICommService.dll
+F:\Courses\681\Project 4\Project4\Project4_DarshanMastiPrakash\ICommService\obj\Release\ICommService.pdb

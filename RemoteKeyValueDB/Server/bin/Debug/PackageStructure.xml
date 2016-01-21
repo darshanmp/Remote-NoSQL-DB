@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is the persisted XML file-->
+<Items>
+  <Item>
+    <Key>TestExec</Key>
+    <Value>
+      <Name>TestExec Package</Name>
+      <Description>This is the TestExec Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>DBFactory</Child>
+        <Child>Display</Child>
+        <Child>ExceptionLayer</Child>
+        <Child>ItemEditor</Child>
+        <Child>ItemFactory</Child>
+        <Child>QueryEngine</Child>
+        <Child>Scheduler</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>TestExec Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>XMLUtility</Key>
+    <Value>
+      <Name>XMLUtility Package</Name>
+      <Description>This is the TestExec Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>XMLUtility Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>Scheduler</Key>
+    <Value>
+      <Name>Scheduler Package</Name>
+      <Description>This is the Scheduler Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>Scheduler Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>QueryEngine</Key>
+    <Value>
+      <Name>QueryEngine Package</Name>
+      <Description>This is the QueryEngine Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>QueryEngine Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>ItemFactory</Key>
+    <Value>
+      <Name>ItemFactory Package</Name>
+      <Description>This is the ItemFactory Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+      </Children>
+      <Payload>ItemFactory Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>ItemEditor</Key>
+    <Value>
+      <Name>ItemEditor Package</Name>
+      <Description>This is the ItemEditor Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>ItemEditor Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>ExceptionLayer</Key>
+    <Value>
+      <Name>ExceptionLayer Package</Name>
+      <Description>This is the ExceptionLayer Package Structure</Description>
+      <Payload>ExceptionLayer Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>DisplayTest</Key>
+    <Value>
+      <Name>DisplayTest Package</Name>
+      <Description>This is the DisplayTest Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>Display</Child>
+      </Children>
+      <Payload>DisplayTest Package structure</Payload>
+    </Value>
+  </Item>  
+  <Item>
+    <Key>Display</Key>
+    <Value>
+      <Name>Display Package</Name>
+      <Description>This is the Display Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>DBExtensions</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>Display Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>DBFactory</Key>
+    <Value>
+      <Name>DBFactory Package</Name>
+      <Description>This is the DBFactory Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+      </Children>
+      <Payload>DBFactory Package structure</Payload>
+    </Value>
+  </Item> 
+  <Item>
+    <Key>DBExtensionsTest</Key>
+    <Value>
+      <Name>DBExtensionsTest Package</Name>
+      <Description>This is the DBExtensionsTest Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>DBExtensions</Child>
+      </Children>
+      <Payload>DBExtensionsTest Package structure</Payload>
+    </Value>
+  </Item> 
+  <Item>
+    <Key>DBExtensions</Key>
+    <Value>
+      <Name>DBExtensions Package</Name>
+      <Description>This is the DBExtensions Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>DBExtensions Package structure</Payload>
+    </Value>
+  </Item>
+<Item>
+    <Key>DBEngineTest</Key>
+    <Value>
+      <Name>DBEngineTest Package</Name>
+      <Description>This is the DBEngineTest Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>DBExtensions</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>DBEngineTest Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>DBEngine</Key>
+    <Value>
+      <Name>DBEngine Package</Name>
+      <Description>This is the DBEngine Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>DBEngine Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>DBElementTest</Key>
+    <Value>
+      <Name>DBElementTest Package</Name>
+      <Description>This is the DBElementTest Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBExtensions</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>DBElementTest Package structure</Payload>
+    </Value>
+  </Item>
+  <Item>
+    <Key>DBElement</Key>
+    <Value>
+      <Name>DBElement Package</Name>
+      <Description>This is the DBElement Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBExtensions</Child>
+        <Child>XMLUtility</Child>
+      </Children>
+      <Payload>DBElement Package structure</Payload>
+    </Value>
+  </Item>
+    <Item>
+    <Key>Sender</Key>
+    <Value>
+      <Name>Sender Package</Name>
+      <Description>This is the Sender Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>Sender Package structure</Payload>
+    </Value>
+    </Item>
+    <Item>
+    <Key>Receiver</Key>
+    <Value>
+      <Name>Receiver Package</Name>
+      <Description>This is the Receiver Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>Receiver Package structure</Payload>
+    </Value>
+    </Item>
+    <Item>
+    <Key>CommService</Key>
+    <Value>
+      <Name>CommService Package</Name>
+      <Description>This is the CommService Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>CommService Package structure</Payload>
+    </Value>
+    </Item>
+	    <Item>
+    <Key>ICommService</Key>
+    <Value>
+      <Name>ICommService Package</Name>
+      <Description>This is the ICommService Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>ICommService Package structure</Payload>
+    </Value>
+    </Item>
+	<Item>
+    <Key>Server</Key>
+    <Value>
+      <Name>Server Package</Name>
+      <Description>This is the Server Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>Server Package structure</Payload>
+    </Value>
+    </Item>
+	<Item>
+    <Key>BlockingQueue</Key>
+    <Value>
+      <Name>BlockingQueue Package</Name>
+      <Description>This is the BlockingQueue Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>BlockingQueue Package structure</Payload>
+    </Value>
+    </Item>
+		<Item>
+    <Key>ProcessStarter</Key>
+    <Value>
+      <Name>ProcessStarter Package</Name>
+      <Description>This is the ProcessStarter Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>ProcessStarter Package structure</Payload>
+    </Value>
+    </Item>
+	<Item>
+    <Key>WriterClientConsole</Key>
+    <Value>
+      <Name>WriterClientConsole Package</Name>
+      <Description>This is the WriterClientConsole Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>WriterClientConsole Package structure</Payload>
+    </Value>
+    </Item>
+	<Item>
+    <Key>ReadClientConsole</Key>
+    <Value>
+      <Name>ReadClientConsole Package</Name>
+      <Description>This is the ReadClientConsole Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>ReadClientConsole Package structure</Payload>
+    </Value>
+    </Item>
+		<Item>
+    <Key>StartUpApp</Key>
+    <Value>
+      <Name>StartUpApp Package</Name>
+      <Description>This is the StartUpApp Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>StartUpApp Package structure</Payload>
+    </Value>
+    </Item>
+	<Item>
+    <Key>RequestHandler</Key>
+    <Value>
+      <Name>RequestHandler Package</Name>
+      <Description>This is the Server Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>RequestHandler Package structure</Payload>
+    </Value>
+    </Item>
+    <Item>
+    <Key>ICommService</Key>
+    <Value>
+      <Name>ICommService Package</Name>
+      <Description>This is the ICommService Package Structure</Description>
+      <Children>
+        <Child>DBElement</Child>
+        <Child>DBEngine</Child>
+        <Child>ExceptionLayer</Child>
+      </Children>
+      <Payload>ICommService Package structure</Payload>
+    </Value>
+  </Item>
+</Items>
